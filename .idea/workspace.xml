@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bfb0c90e-7108-4c65-9729-2276c19688f5" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\README.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\CREDITS" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\ChangeLog" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\Documentation.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\INSTALL" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\README" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\README.VENDOR" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\RELEASE-DATE-3.2.3" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\TODO" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\browse_foreigners.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\bs_change_mime_type.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\bs_disp_as_mime_type.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\bs_play_media.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\calendar.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\changelog.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\chk_rel.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\config.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\config.sample.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\contrib\README" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\contrib\htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\contrib\packaging\Fedora\phpMyAdmin-http.conf" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\contrib\packaging\Fedora\phpMyAdmin.spec" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\contrib\swekey.sample.conf" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\db_create.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\db_datadict.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\db_export.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\db_import.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\db_operations.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\db_printview.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\db_qbe.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\db_search.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\db_sql.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\db_structure.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\docs.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\error.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\export.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\import.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\index.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\js\common.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\js\dom-drag.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\js\functions.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\js\indexes.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\js\keyhandler.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\js\mooRainbow\images\blank.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\js\mooRainbow\images\moor_arrows.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\js\mooRainbow\images\moor_boverlay.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\js\mooRainbow\images\moor_cursor.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\js\mooRainbow\images\moor_slider.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\js\mooRainbow\images\moor_woverlay.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\js\mooRainbow\images\rainbow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\js\mooRainbow\mooRainbow.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\js\mooRainbow\mooRainbow.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\js\mootools-domready-rainbow.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\js\mootools.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\js\navigation.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\js\querywindow.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\js\server_privileges.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\js\tbl_change.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\js\tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\lang\add_message.sh" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\lang\add_message_file.sh" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\lang\check_lang.sh" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\lang\english-utf-8.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\lang\remove_message.sh" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\lang\sort_lang.sh" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\lang\translatecount.sh" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\Config.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\Error.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\Error_Handler.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\File.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\Index.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\List.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\List_Database.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\Message.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\PMA.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\Partition.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\StorageEngine.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\Table.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\Theme.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\Theme_Manager.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\auth\config.auth.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\auth\cookie.auth.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\auth\http.auth.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\auth\signon.auth.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\auth\swekey\authentication.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\auth\swekey\musbe-ca.crt" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\auth\swekey\swekey.auth.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\auth\swekey\swekey.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\blobstreaming.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\blowfish.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\bookmark.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\charset_conversion.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\check_user_privileges.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\cleanup.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\common.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\common.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\config.default.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\core.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\database_interface.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\db_common.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\db_events.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\db_info.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\db_links.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\db_routines.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\db_table_exists.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\dbg\setup.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\dbi\mysql.dbi.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\dbi\mysqli.dbi.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\display_change_password.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\display_create_database.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\display_create_table.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\display_export.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\display_import.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\display_select_lang.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\display_tbl.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\display_tbl_links.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\engines\bdb.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\engines\berkeleydb.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\engines\binlog.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\engines\innobase.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\engines\innodb.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\engines\memory.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\engines\merge.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\engines\mrg_myisam.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\engines\myisam.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\engines\ndbcluster.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\engines\pbxt.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\export\codegen.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\export\csv.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\export\excel.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\export\htmlexcel.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\export\htmlword.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\export\latex.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\export\ods.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\export\odt.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\export\pdf.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\export\sql.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\export\texytext.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\export\xls.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\export\xml.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\export\yaml.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\file_listing.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\footer.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\grab_globals.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\header.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\header_http.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\header_meta_style.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\header_printview.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\header_scripts.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\iconv_wrapper.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\import.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\import\README" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\import\csv.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\import\docsql.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\import\ldi.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\import\sql.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\information_schema_relations.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\ip_allow_deny.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\js_escape.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\kanji-encoding.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\logging.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\mult_submits.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\mysql_charsets.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\navigation_header.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\ob.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\opendocument.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\parse_analyze.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\plugin_interface.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\relation.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\relation_cleanup.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\sanitizing.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\select_lang.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\select_server.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\server_common.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\server_links.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\session.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\sql_query_form.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\sqlparser.data.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\sqlparser.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\sqlvalidator.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\sqlvalidator.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\string.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\string_mb.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\string_native.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\string_type_ctype.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\string_type_native.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\tbl_common.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\tbl_info.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\tbl_links.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\tbl_properties.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\tbl_replace_fields.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\tbl_triggers.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\transformations.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\transformations\README" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\transformations\TEMPLATE" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\transformations\TEMPLATE_MIMETYPE" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\transformations\application_octetstream__download.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\transformations\application_octetstream__hex.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\transformations\generator.sh" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\transformations\global.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\transformations\image_jpeg__inline.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\transformations\image_jpeg__link.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\transformations\image_png__inline.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\transformations\template_generator.sh" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\transformations\template_generator_mimetype.sh" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\transformations\text_plain__dateformat.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\transformations\text_plain__external.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\transformations\text_plain__formatted.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\transformations\text_plain__imagelink.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\transformations\text_plain__link.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\transformations\text_plain__longToIpv4.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\transformations\text_plain__sql.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\transformations\text_plain__substr.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\url_generating.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\vendor_config.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\zip.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\libraries\zip_extension.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\license.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\main.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\navigation.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pdf_pages.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pdf_schema.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\phpinfo.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\phpmyadmin.css.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\images\2leftarrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\images\2leftarrow_m.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\images\2rightarrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\images\2rightarrow_m.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\images\ang_direct.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\images\bord.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\images\bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\images\def.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\images\display_field.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\images\downarrow1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\images\downarrow2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\images\downarrow2_m.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\images\exec.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\images\exec_small.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\images\favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\images\grid.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\images\help.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\images\help_relation.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\images\pdf.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\images\relation.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\images\reload.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\images\resize.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\images\rightarrow1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\images\rightarrow2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\images\save.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\images\table.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\images\uparrow2_m.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\scripts\ajax.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\scripts\iecanvas.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\scripts\move.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\styles\default\images\1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\styles\default\images\2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\styles\default\images\3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\styles\default\images\4.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\styles\default\images\5.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\styles\default\images\6.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\styles\default\images\7.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\styles\default\images\8.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\styles\default\images\FieldKey_small.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\styles\default\images\Field_small.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\styles\default\images\Field_small_char.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\styles\default\images\Field_small_date.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\styles\default\images\Field_small_int.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\styles\default\images\Header.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\styles\default\images\Header_Linked.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\styles\default\images\left_panel_butt.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\styles\default\images\left_panel_tab.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\styles\default\images\small_tab.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\styles\default\images\top_panel.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd\styles\default\style1.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd_common.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd_display_field.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd_general.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd_help.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd_pdf.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd_relation_new.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd_relation_upd.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\pmd_save_pos.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\print.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\querywindow.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\scripts\check_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\scripts\convertcfg.pl" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\scripts\create-release.sh" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\scripts\create_tables.sql" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\scripts\decode_bug.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\scripts\find_unused_messages.sh" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\scripts\lang-cleanup.sh" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\scripts\remove_control_m.sh" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\scripts\signon.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\scripts\upgrade.pl" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\scripts\upgrade_tables_mysql_4_1_2+.sql" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\server_binlog.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\server_collations.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\server_databases.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\server_engines.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\server_export.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\server_import.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\server_privileges.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\server_processlist.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\server_sql.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\server_status.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\server_variables.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\setup\config.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\setup\frames\config.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\setup\frames\form.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\setup\frames\index.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\setup\frames\menu.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\setup\frames\servers.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\setup\index.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\setup\lib\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\setup\lib\ConfigFile.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\setup\lib\Form.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\setup\lib\FormDisplay.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\setup\lib\FormDisplay.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\setup\lib\common.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\setup\lib\config_info.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\setup\lib\form_processing.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\setup\lib\forms.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\setup\lib\index.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\setup\lib\validate.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\setup\scripts.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\setup\styles.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\setup\validate.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\show_config_errors.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\sql.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\tbl_addfield.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\tbl_alter.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\tbl_change.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\tbl_create.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\tbl_export.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\tbl_import.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\tbl_indexes.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\tbl_move_copy.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\tbl_operations.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\tbl_printview.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\tbl_relation.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\tbl_replace.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\tbl_row_action.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\tbl_select.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\tbl_sql.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\tbl_structure.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\css\theme_left.css.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\css\theme_print.css.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\css\theme_right.css.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\arrow_ltr.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\arrow_rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\asc_order.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_bookmark.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_browse.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_calendar.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_comment.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_dbstatistics.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_deltbl.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_docs.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_docsql.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_drop.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_edit.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_empty.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_engine.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_export.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_firstpage.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_ftext.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_help.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_home.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_import.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_index.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_info.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_insrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_lastpage.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_minus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_newdb.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_newtbl.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_nextpage.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_pdfdoc.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_plus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_prevpage.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_primary.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_print.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_props.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_relations.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_save.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_sbrowse.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_sdb.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_search.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_selboard.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_select.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_sql.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_sqldoc.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_sqlhelp.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_tblanalyse.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_tblexport.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_tblimport.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_tblops.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_tbloptimize.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_tipp.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_unique.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_usradd.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_usrcheck.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_usrdrop.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_usredit.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_usrlist.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_view.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\b_views.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\bd_browse.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\bd_deltbl.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\bd_drop.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\bd_empty.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\bd_firstpage.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\bd_ftext.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\bd_index.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\bd_insrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\bd_lastpage.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\bd_nextpage.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\bd_prevpage.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\bd_primary.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\bd_sbrowse.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\bd_select.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\bd_unique.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\docs_menu_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\error.ico" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\item.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\item_ltr.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\item_rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\logo_left.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\logo_right.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\php_sym.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\pma_logo2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\s_asc.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\s_asci.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\s_attention.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\s_cancel.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\s_cancel2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\s_db.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\s_desc.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\s_error.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\s_error2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\s_fulltext.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\s_host.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\s_info.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\s_lang.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\s_loggoff.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\s_notice.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\s_okay.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\s_partialtext.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\s_passwd.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\s_process.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\s_really.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\s_reload.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\s_rights.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\s_status.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\s_success.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\s_tbl.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\s_theme.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\s_vars.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\s_views.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\s_warn.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\spacer.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\vertical_line.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\img\window-new.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\info.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\layout.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\themes\original\screen.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\transformation_overview.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\transformation_wrapper.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\translators.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\user_password.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\view_create.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\Tools\phpmyadmin\webapp.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\nbproject\private\private.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\nbproject\private\private.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\nbproject\project.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\nbproject\project.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\WebServers\home\article\www\quality.sql" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model/db_settings.php" afterPath="$PROJECT_DIR$/model/db_settings.php" />
+    </list>
+    <ignored path="www.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="67" selection-start="1176" selection-end="1176" vertical-scroll-proportion="0.09426987">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/model/db_settings.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-4" />
+    <option name="y" value="-4" />
+    <option name="width" value="1368" />
+    <option name="height" value="746" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1350561264703</created>
+      <updated>1350561264703</updated>
+    </task>
+    <task id="LOCAL-00001" summary="тестовое изменение, все ок. Вернул назад&#10;">
+      <created>1350561750578</created>
+      <updated>1350561750578</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="-4" width="1368" height="746" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24961948" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="тестовое изменение, все ок. Вернул назад&#10;" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="тестовое изменение, все ок. Вернул назад&#10;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="22" selection-start="42" selection-end="42" vertical-scroll-proportion="0.059964728">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/db_settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="2" selection-start="101" selection-end="101" vertical-scroll-proportion="0.15711646">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="67" selection-start="1176" selection-end="1176" vertical-scroll-proportion="0.09426987">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
