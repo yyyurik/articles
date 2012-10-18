@@ -3,6 +3,20 @@ require_once "model/db_connection.php";
 require_once "model/pageFormation.php";
 require_once "model/Authorization.php";
 $faq = new pageFormation();
+$authorization = new Authorization();
+
+switch($_POST[submit]) {
+    case 'registration' : $authorization->userRegistration();
+        break;
+    case 'enter' : $authorization->userEnter();
+        //тут будет кабинет, который выводиться после успешного входа
+        break;
+}
+
+switch($_GET[action]) {
+    case 'exit' : $authorization->userExit();
+        break;
+}
 ?>
 <!DOCTYPE html>
 <html>

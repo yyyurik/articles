@@ -3,7 +3,6 @@
         <div class="wrapper">
             <div class="grid_8">
                 <?php
-                $authorization = new Authorization();
                 switch($_GET[action]) {
                     case 'enter':
                         echo "<form action='./registration.php' method='post'>
@@ -24,20 +23,12 @@
                         break;
                     case 'cabinet' : echo 'Это кабинет';
                         break;
-                    case 'exit' : $authorization->userExit();
-                        break;
                 }
 
-//-----------------------------------------------------------------------------------------------
-
-                switch($_POST[submit]) {
-                    case 'registration' : $authorization->userRegistration();
-                        break;
-                    case 'enter' : $authorization->userEnter();
-
-                        //тут будет кабинет, который выводиться после успешного входа
-
-                        break;
+                if (isset($authorization->messages)) {
+                    foreach ($authorization->messages as $k => $v) {
+                        echo $v;
+                    }
                 }
                 ?>
             </div>
