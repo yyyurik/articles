@@ -2,7 +2,7 @@
 @import url(http://fonts.googleapis.com/css?family=Lobster&subset=cyrillic-ext);
 @import url(http://fonts.googleapis.com/css?family=Scada&subset=latin,cyrillic);
 body{background:#e3e3e3;font:14px/24px Tahoma, Helvetica, sans-serif;color:#6A6A6A;position:relative;min-width:320px;-webkit-text-size-adjust: none;}
-html,body {height:100%;
+html,body {height:100%; 
     text-shadow:-1px -1px 1px rgba(255,255,255,0.2), /* наверх и влево */
     1px 1px 1px rgba(255,255,255,0.2), /* вниз и вправо */
     1px 1px 1px rgba(0,0,0,0.1); /* тёмная тень */
