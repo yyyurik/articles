@@ -6,10 +6,6 @@
                 <h1><a href="index.php" id="logo_bar"><img src="images/logotype.jpg" width="200px"></a></h1>
                 <div class="fright">
                 <?php
-                if (isset($_POST[email])) {
-                    $_SESSION[email] = $POST[email];
-                    $_SESSION[id] = $POST[id];
-                }
                 if (empty($_SESSION['email']) or empty($_SESSION['id'])) {
                     echo "<a href='./registration.php?action=enter'>Войти</a><br>";
                     echo "<a href='./registration.php?action=registration'>Зарегистрироваться</a><br>";
