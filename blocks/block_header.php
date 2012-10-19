@@ -21,10 +21,10 @@
             <nav class="main_menu">
                 <ul class="sf-menu">
                     <li><a href="index.php">Mir-texta.ru</a></li>
-                    <li><a href="services.php">Цены</a></li>
+                    <li><a href="index.php?articles_id=1">Цены</a></li>
+                    <li><a href="about.php">Правила</a></li>
                     <li><a href="faq.php">Вопросы</a></li>
-                    <li><a href="about.php">О нас</a></li>
-                    <li class="last"><a href="contacts.php">Вход</a></li>
+                    <li class="last"><a href="registration.php">Вход</a></li>
                 </ul>
                 <div class="clear"></div>
             </nav>
