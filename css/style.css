@@ -1,17 +1,22 @@
 @import"../css/reset.css";@import"../css/skeleton.css";@import"../css/superfish.css";@import"../css/forms.css";@import"../css/prettyPhoto.css";
-@import url(http://fonts.googleapis.com/css?family=Merienda+One);
+@import url(http://fonts.googleapis.com/css?family=Lobster&subset=cyrillic-ext);
 @import url(http://fonts.googleapis.com/css?family=Scada&subset=latin,cyrillic);
-body{background:#e3e3e3;font:12px/24px Arial, Helvetica, sans-serif;color:#999;position:relative;min-width:320px;-webkit-text-size-adjust: none;}
-html,body{height:100%;}
+body{background:#e3e3e3;font:14px/24px Tahoma, Helvetica, sans-serif;color:#6A6A6A;position:relative;min-width:320px;-webkit-text-size-adjust: none;}
+html,body {height:100%;
+    text-shadow:-1px -1px 1px rgba(255,255,255,0.2), /* наверх и влево */
+    1px 1px 1px rgba(255,255,255,0.2), /* вниз и вправо */
+    1px 1px 1px rgba(0,0,0,0.1); /* тёмная тень */
+
+}
 p{padding-bottom:24px}
 a{color:#1ec7eb;outline:none;cursor:pointer;text-decoration:none;}
-a:hover{text-decoration: underline}
+a:hover{text-decoration: underline; cursor: pointer;}
 /*  Header styles */
 h1,h2,h3,h4,h5,h6{line-height:1.2em;color:#212121; font-weight:normal;}
 h1{font-size:30px;}
-h2{font-size:30px; color:#242424; letter-spacing:-3px;line-height:43px; padding-bottom:15px;font-family: 'Merienda One', cursive;}
-h3{font-size:24px; line-height:30px;color:#242424; font-family:'Russo One', sans-serif; padding-bottom:33px;}
-h4{font-size:20px;}
+h2{font-size:30px; color:#242424; letter-spacing:1px;line-height:43px; padding-bottom:15px;font-family: 'Lobster', cursive;}
+h3{font-size:24px; line-height:30px;color:#242424; font-family:'Lobster', sans-serif; padding-bottom:12px;}
+h4{font-size:20px; font-family: 'Scada';}
 h5{font-size:18px;}
 h6{font-size:14px;}
 /* Global Structure---------------------------------------- */
@@ -61,7 +66,7 @@ html[xmlns] .slides {display: block;}
 -webkit-transition:all 0.5s ease;-moz-transition:all 0.5s ease;-o-transition:all 0.5s ease;transition:all 0.5s ease;}
 	.slider-btn:hover{ text-decoration:none; background:#1ec7eb;}
 /********************** Content ************************/
-section.padcontent{ padding:37px 0 52px;}
+section.padcontent{ padding:27px 0 22px;}
 section.padcontent2{ padding:44px 0 53px;}
 aside.bg2{ width:100%; padding:50px 0 44px 0;}
 aside.padcontent2{padding:50px 0 48px 0;}
@@ -148,7 +153,7 @@ footer a:hover{color:#1ec7eb;}
 .padbot5{ padding-bottom:32px;}
 .padbot3{ padding-bottom:48px;}
 .imgindent{ float:left; margin:4px 18px  0 0;}
-.pad1{ padding:0 70px 32px 0;}
+.pad1{ padding:0 70px 12px 0;}
 /*==========================================*/
 @media only screen and (min-width: 768px) and (max-width: 995px) {
 	.slider{ height:auto; padding-bottom:50px;}
@@ -264,3 +269,4 @@ footer a:hover{color:#1ec7eb;}
 .social li{ float:left; margin-left:4px;}
 .social li:first-child{ font:14px/25px 'Merienda One', cursive; color:#242424; letter-spacing:-1px; padding:5px 7px 0 0;}
 .social li a:hover img{ opacity:.6;filter: alpha(opacity = 60);}
+#padbot3 h4 {display: none;}
