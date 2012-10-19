@@ -5,13 +5,13 @@
 .sf-menu li.last{width:140px; }
 	.sf-menu li a {display:block; background:url(../images/nav-tail.jpg) 0 0 repeat-x #0d0d0d; color:#fff; padding:20px 0 20px; text-align:center;}
 	.sf-menu li:first-child a{ border-radius:0px 0 0 7px;}
-	.sf-menu li.last a{ border-radius:0 0px 7px 0; background: #08741f;}
+	.sf-menu li.last a{ border-radius:0 0px 7px 0; background: #0088CC;}
 		.sf-menu li.current a,.sf-menu li.sfHover a,.sf-menu li a:hover{ text-decoration:none; background:#1ec7eb;}
 .sf-menu ul {
 	position:		absolute;
 	top:			-999em;
 	z-index:		99;
-	width:			135px; 
+	width:			135px;
 	display:none;
 	background:none;
 }
