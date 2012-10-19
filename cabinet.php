@@ -9,7 +9,6 @@ switch($_POST[submit]) {
     case 'registration' : $authorization->userRegistration();
         break;
     case 'enter' : $authorization->userEnter();
-        //тут будет кабинет, который выводиться после успешного входа
         break;
 }
 
@@ -21,10 +20,8 @@ switch($_GET[action]) {
 <!DOCTYPE html>
 <html>
     <head>
-        <title>
-        <?php echo $faq->getTitle('faq');?>
-        </title>
-        <meta name="description" content="<?php echo $faq->getDescription('faq');?>">
+        <title></title>
+        <meta name="description" content="">
         <meta charset="utf-8">
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
@@ -34,7 +31,11 @@ switch($_GET[action]) {
         <div class="bg-top">
             <?php
             include 'blocks/block_header.php';
-            include 'blocks/block_registration.php';
+            if (isset($_SESSION[id])&&isset($_SESSION[email])) {
+                include 'blocks/block_cabinet.php';
+            } else {
+                include 'blocks/block_registration.php';
+            }
             include 'blocks/block_footer.php';
             ?>
         </div>

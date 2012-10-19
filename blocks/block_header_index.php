@@ -1,20 +1,20 @@
 <header>
     <div class=" container_24">
         <div class="grid_24">
-         <!--   <div class="wrapper">
+                <div class="wrapper">
                 <h1><a href="index.php" id="logo_bar"><img src="images/logotype.jpg" width="200px"></a></h1>
                 <div class="fright">
                 <?php
                 if (empty($_SESSION['email']) or empty($_SESSION['id'])) {
-                    echo "<a href='./registration.php?action=enter'>Войти</a><br>";
-                    echo "<a href='./registration.php?action=registration'>Зарегистрироваться</a><br>";
+                    echo "<a href='./cabinet.php?action=enter'>Войти</a><br>";
+                    echo "<a href='./cabinet.php?action=registration'>Зарегистрироваться</a><br>";
                     echo "Вы вошли на сайт, как Гость.";
                 } else {
                     echo "Вы вошли на сайт, как ".$_SESSION['email']."<br><a href='./registration.php?action=cabinet'>В кабинет</a><br>";
-                    echo "<a href='./registration.php?action=exit'>Выйти</a>";
+                    echo "<a href='./cabinet.php?action=exit'>Выйти</a>";
                 }
                 ?>
-                </div> -->
+                </div>
                 <span class="logo-slogan"></span>
             </div>
             <nav class="main_menu">
