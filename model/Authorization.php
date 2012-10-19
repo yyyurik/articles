@@ -2,6 +2,8 @@
 
 class Authorization {
 
+    public $messages = array();
+
     public function quote_smart($value)
     {
         $value = trim($value);
@@ -44,23 +46,23 @@ class Authorization {
         if (isset($_POST['email']))    {$email = $this->quote_smart($_POST['email']); if ($email == '') {unset($email);}}
         if (isset($_POST['password'])) {$password = $this->quote_smart($_POST['password']); if ($password =='') {unset($password);}}
         if (empty($email) or empty($password)) {
-            exit ("Вы ввели не всю информацию, вернитесь назад и заполните все поля!");
+            $this->messages[] = 'Вы ввели не всю информацию, вернитесь назад и заполните все поля!';
         }
         $enter_query = "SELECT * FROM users WHERE email='$email'";
         $enter_result = mysql_query($enter_query); //извлекаем из базы все данные о пользователе с введенным логином
         $enter_row = mysql_fetch_array($enter_result);
         if (empty($enter_row['password'])) {
             //если пользователя с введенным логином не существует
-            exit ("Извините, введённый вами email или пароль неверный.");
+            $this->messages[] = 'Извините, введённый вами email или пароль неверный.';
         } else {
             //если существует, то сверяем пароли
             if ($enter_row['password'] == $password) {
             //если пароли совпадают, то запускаем пользователю сессию! Можете его поздравить, он вошел!
                 $_SESSION['email'] = $enter_row['email'];
                 $_SESSION['id'] = $enter_row['id'];//эти данные очень часто используются, вот их и будет "носить с собой" вошедший пользователь
-                echo "Вы успешно вошли на сайт! <a href='../index.php'>Главная страница</a>";
+                $this->messages[] = "Вы успешно вошли на сайт! <a href='../index.php'>Главная страница</a>";
             } else {
-                exit ("Извините, введённый вами email или пароль неверный.");
+                $this->messages[] = 'Извините, введённый вами email или пароль неверный.';
             }
         }
     }
@@ -69,7 +71,7 @@ class Authorization {
         session_start();
         unset($_SESSION);
         session_destroy();
-        echo 'Вы вышли';
+        $this->messages[] = 'Вы вышли';
     }
 }
 
