@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 /nbproject
 /Tools
+=======
+/nbproject/
+/tools/
+/model/db_settings.php
+/Article/
+/.idea/
+>>>>>>> 588b318599c6dec2f8098292f6f945a97bbb9684

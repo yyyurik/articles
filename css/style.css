@@ -1,6 +1,6 @@
 @import"../css/reset.css";@import"../css/skeleton.css";@import"../css/superfish.css";@import"../css/forms.css";@import"../css/prettyPhoto.css";
 @import url(http://fonts.googleapis.com/css?family=Merienda+One);
-@import url(http://fonts.googleapis.com/css?family=Oswald);
+@import url(http://fonts.googleapis.com/css?family=Scada&subset=latin,cyrillic);
 body{background:#e3e3e3;font:12px/24px Arial, Helvetica, sans-serif;color:#999;position:relative;min-width:320px;-webkit-text-size-adjust: none;}
 html,body{height:100%;}
 p{padding-bottom:24px}
@@ -10,7 +10,7 @@ a:hover{text-decoration: underline}
 h1,h2,h3,h4,h5,h6{line-height:1.2em;color:#212121; font-weight:normal;}
 h1{font-size:30px;}
 h2{font-size:30px; color:#242424; letter-spacing:-3px;line-height:43px; padding-bottom:15px;font-family: 'Merienda One', cursive;}
-h3{font-size:24px; line-height:30px;color:#242424; font-family:'Oswald', sans-serif; padding-bottom:33px;}
+h3{font-size:24px; line-height:30px;color:#242424; font-family:'Russo One', sans-serif; padding-bottom:33px;}
 h4{font-size:20px;}
 h5{font-size:18px;}
 h6{font-size:14px;}
@@ -53,17 +53,17 @@ html[xmlns] .slides {display: block;}
 	.flex-control-nav li a{ display:block; background: url(../images/pagination.png) -31px 0 no-repeat; width:27px; height:27px; text-indent:-5000px; margin-top:3px;}
 	.flex-control-nav li a:hover,.flex-control-nav li a.active{ background-position:0 0;}
 /* caption */
-.caption{ position:absolute; right:0;top:64px; width:272px;background: url(../images/bg-banner.jpg) 100% 0 no-repeat;}
-.slider-text1{ color:#242424; font:85px/102px 'Oswald', sans-serif; letter-spacing:-4px;}
+.caption{ position:absolute; right:0;top:64px; width:272px;background: url('../images/bg-banner.jpg') 100% 0 no-repeat;}
+.slider-text1{ color:#242424; font:85px/102px 'Russo One', sans-serif; letter-spacing:-4px;}
 .slider-text2{ font:30px/36px 'Merienda One', cursive; color:#cdcdcd; letter-spacing:-2px; padding:9px 30px 37px 0;}
 	.slider-text2 span{ display:block; margin-top:-6px;}
-.slider-btn{ display:inline-block; background:#1c1c1c; padding:14px 22px 16px; font:15px/18px 'Oswald', sans-serif; color:#fff; text-transform:uppercase; margin-left:2px; border-radius:5px;
+.slider-btn{ display:inline-block; background:#1c1c1c; padding:14px 22px 16px; font:15px/18px 'Russo One', sans-serif; color:#fff; text-transform:uppercase; margin-left:2px; border-radius:5px;
 -webkit-transition:all 0.5s ease;-moz-transition:all 0.5s ease;-o-transition:all 0.5s ease;transition:all 0.5s ease;}
 	.slider-btn:hover{ text-decoration:none; background:#1ec7eb;}
 /********************** Content ************************/
 section.padcontent{ padding:37px 0 52px;}
 section.padcontent2{ padding:44px 0 53px;}
-aside.bg2{ width:100%; background:url(../images/bg2.jpg) 0 0 repeat-x #f0f1f1; padding:50px 0 44px 0;}
+aside.bg2{ width:100%; padding:50px 0 44px 0;}
 aside.padcontent2{padding:50px 0 48px 0;}
 aside.padcontent4{padding:49px 0 41px 0;}
 aside.padcontent3{padding:47px 0 56px 0;}
@@ -94,7 +94,7 @@ aside.padcontent3{padding:47px 0 56px 0;}
 	.list4 li span{display:inline-block; margin:12px 0 0 0;}
 	.list4 li p{ padding-bottom:0px;}
 .list5{ padding:9px 10px 0 0;}
-.list5 li{ font:18px/22px 'Oswald', sans-serif; margin-bottom:1px;}
+.list5 li{ font:18px/22px 'Russo One', sans-serif; margin-bottom:1px;}
 	.list5 li a{color:#1d1d1d; display:block; background:#dcdcdc; padding:8px 0 9px 34px;
 	-webkit-transition:all 0.5s ease;-moz-transition:all 0.5s ease;-o-transition:all 0.5s ease;transition:all 0.5s ease;}
 	.list5 li a:hover{ text-decoration:none; color:#fff; background:#1ec7eb;}
@@ -116,7 +116,7 @@ aside.padcontent3{padding:47px 0 56px 0;}
 	.contacts span{ display:inline-block; width:70px;}
 	.contacts a{color:#1d1d1d;}
 /*  Buttons */
-.button{display:inline-block; background:#1ec7eb; color:#fff; font:12px/15px 'Oswald', sans-serif; text-transform:uppercase; padding:12px 22px 11px; border-radius:5px;
+.button{display:inline-block; background:#1ec7eb; color:#fff; font:12px/15px 'Russo One', sans-serif; text-transform:uppercase; padding:12px 22px 11px; border-radius:5px;
 -webkit-transition:all 0.5s ease;-moz-transition:all 0.5s ease;-o-transition:all 0.5s ease;transition:all 0.5s ease;}
 	.button:hover{ text-decoration:none; background:#1c1c1c;}
 .link{ font:14px/24px Arial, Helvetica, sans-serif; color:#1d1d1d;}
@@ -237,7 +237,7 @@ input[type="text"],input[type=password],textarea{font-family: Arial, Helvetica, 
 /* search */
 #search{ padding:19px 0 0 0; position:relative; overflow:hidden;}
 	#search input{font-family: Arial, Helvetica, sans-serif;color:#999;font-size:1em;vertical-align:middle;font-weight:normal;padding:11px 12px 12px;margin:0;background:#eff0f0;outline:none;border:none;width:217px; border-radius:5px 0 0 5px; min-height:15px\9;}
-	#search a{ display:block; float:left; font:12px/15px 'Oswald', sans-serif; text-transform:uppercase; color:#fff; background:#1ec7eb; padding:12px 15px 11px; border-radius:0 5px 5px 0;
+	#search a{ display:block; float:left; font:12px/15px 'Russo One', sans-serif; text-transform:uppercase; color:#fff; background:#1ec7eb; padding:12px 15px 11px; border-radius:0 5px 5px 0;
 	-webkit-transition:all 0.5s ease;-moz-transition:all 0.5s ease;-o-transition:all 0.5s ease;transition:all 0.5s ease;}
 	#search a:hover{ text-decoration:none; background:#232323;}
 @media only screen and (min-width: 768px) and (max-width: 995px) {
@@ -253,3 +253,14 @@ input[type="text"],input[type=password],textarea{font-family: Arial, Helvetica, 
 	#contact-form input,#contact-form textarea{ width:392px;}
 	#search input{width:326px;}
 }
+
+/******************** Footer ******************/
+footer{ padding:22px 0;font:14px/24px Arial, Helvetica, sans-serif; color:#1d1d1d; background:#CAC8C8;}
+footer a{color:#1d1d1d; text-decoration:underline;}
+footer a:hover{color:#1ec7eb;}
+.privacy{ float:left;}
+.privacy span{ display:inline-block; padding:8px 0 0 8px;}
+.social{ float:right; position:relative; overflow:hidden; padding:2px 65px 0 0;}
+.social li{ float:left; margin-left:4px;}
+.social li:first-child{ font:14px/25px 'Merienda One', cursive; color:#242424; letter-spacing:-1px; padding:5px 7px 0 0;}
+.social li a:hover img{ opacity:.6;filter: alpha(opacity = 60);}

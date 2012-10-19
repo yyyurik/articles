@@ -22,7 +22,7 @@
                     <li><a href="index.php">Главная</a></li>
                     <li><a href="about.php">О нас</a></li>
                     <li><a href="services.php">Услуги</a></li>
-                    <li><a href="faq.php">FAQ</a></li>
+                    <li><a href="faq.php">Вопросы</a></li>
                     <li class="last"><a href="contacts.php">Контакты</a></li>
                 </ul>
                 <div class="clear"></div>

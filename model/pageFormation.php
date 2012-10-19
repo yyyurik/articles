@@ -159,12 +159,11 @@ class pageFormation {
         $faq_result = mysql_query($faq_query);
         while ($faq_row = mysql_fetch_array($faq_result)) {
             $faq_exit[] = "<div class='wrapper faq'>".
-                          "<div class='text2 fleft'>".'В?'."</div>".
-                          "<p class='extra-wrap'>".$faq_row[0]."</p>".
+                          "<div class='text2 fleft'>".$faq_row[0]."</div>".
                           "</div>".
 
                           "<div class='wrapper faq2'>".
-                          "<div class='text2 fleft'>".'О.'."</div>".
+                          "<div class='text2 fleft'>".''."</div>".
                           "<p class='extra-wrap'>".$faq_row[1]."</p>".
                           "</div>";
         }
