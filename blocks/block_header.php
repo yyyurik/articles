@@ -23,7 +23,7 @@
                     <li><a href="index.php?articles_id=1">Цены</a></li>
                     <li><a href="about.php">Правила</a></li>
                     <li><a href="faq.php">Вопросы</a></li>
-                    <li class="last"><a href="registration.php">Вход</a></li>
+                    <li class="last"><a href="cabinet.php">Вход</a></li>
                 </ul>
                 <div class="clear"></div>
             </nav>
