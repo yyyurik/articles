@@ -62,8 +62,7 @@ class pageFormation {
         $top_news_query = "SELECT title,text,image FROM top_new";
         $top_news_result = mysql_query($top_news_query);
         $top_news_row = mysql_fetch_array($top_news_result);
-        $top_news_exit = "<img src='$top_news_row[2]' class='imgindent img1'>".
-                         "<h3 class='pad1'>".$top_news_row[0]."</h3>".
+        $top_news_exit =                          "<h3 class='pad1'>".$top_news_row[0]."</h3>".
                          "<p>".$top_news_row[1]."</p>";
         return $top_news_exit;
     }
@@ -74,7 +73,6 @@ class pageFormation {
         $news_result = mysql_query($news_query);
         while ($news_row = mysql_fetch_array($news_result)) {
             $news_exit[] = "<div class='news'>".
-                            "<img src='$news_row[1]' width='106' height='108'>".
                                 "<div class='extra-wrap'>".
                                     "<a href='index.php?news_id=$news_row[0]#$news_row[0]' class='link'>".$news_row[2]."</a>".
                                     "<p>".$news_row[3]."</p>".
