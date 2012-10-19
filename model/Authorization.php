@@ -25,19 +25,19 @@ class Authorization {
                 $registration_check_result = mysql_query($registration_check_query);
                 $registration_check_row = mysql_fetch_array($registration_check_result);
                 if (!empty($registration_check_row['id'])) {
-                    exit ("Извините, введённый вами логин уже зарегистрирован. Введите другой логин.");
+                    $this->messages[] = 'Извините, введённый вами логин уже зарегистрирован. Введите другой логин.';
                 }
                 $registration_insert_query = "INSERT INTO users (email,password,wmz,wmr,yandex) VALUES('$email','$password','$wmz','$wmr','$yandex')";
                 if (mysql_query($registration_insert_query)) {
-                    echo "Вы успешно зарегистрированы! Теперь вы можете зайти на сайт. <a href='../index.php'>Главная страница</a>";
+                    $this->messages[] = "Вы успешно зарегистрированы! Теперь вы можете зайти на сайт. <a href='../index.php'>Главная страница</a>";
                 } else {
-                    echo "Ошибка! Вы не зарегистрированы.";
+                    $this->messages[] = 'Ошибка! Вы не зарегистрированы.';
                 }
             } else {
-                exit ("Вы ввели не всю информацию, вернитесь назад и заполните поля!");
+                $this->messages[] = 'Вы ввели не всю информацию, вернитесь назад и заполните поля!';
             }
         } else {
-            exit ("Вы ввели не всю информацию, вернитесь назад и заполните поля!");
+            $this->messages[] = 'Вы ввели не всю информацию, вернитесь назад и заполните поля!';
         }
     }
 
