@@ -1,6 +1,6 @@
 <?php
-$db_name = 'article';
-$db_username = 'article';
+$db_name = 'quality';
+$db_username = 'quality';
 $db_password = '';
 $db_server = 'localhost';
 ?>
