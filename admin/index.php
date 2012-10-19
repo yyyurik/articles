@@ -1,4 +1,5 @@
 <?php
+require_once 'model/lock.php';
 require_once 'model/config.php';
 require_once 'model/AdminFormation.class.php';
 require_once 'model/AdminEdition.class.php';
