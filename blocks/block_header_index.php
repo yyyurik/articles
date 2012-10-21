@@ -10,7 +10,7 @@
                     echo "<a href='./cabinet.php?action=registration'>Зарегистрироваться</a><br>";
                     echo "Вы вошли на сайт, как Гость.";
                 } else {
-                    echo "Вы вошли на сайт, как ".$_SESSION['email']."<br><a href='./registration.php?action=cabinet'>В кабинет</a><br>";
+                    echo "Вы вошли на сайт, как ".$_SESSION['email']."<br><a href='./cabinet.php?action=cabinet'>В кабинет</a><br>";
                     echo "<a href='./cabinet.php?action=exit'>Выйти</a>";
                 }
                 ?>
