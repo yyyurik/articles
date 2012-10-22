@@ -5,7 +5,7 @@
                 <?php
                 switch($_GET[action]) {
                     case 'enter':
-                        echo "<form action='./cabinet.php' method='post'>
+                        echo "<form action='./cabinet.php?action=cabinet' method='post'>
                                 <label>Ваш логин:<br><input name='email' type='text' size='15' maxlength='15'></label><br>
                                 <label>Ваш пароль:<br><input name='password' type='password' size='15' maxlength='15'></label><br>
                                 <button type='submit' name='submit' value='enter'>Войти</button>

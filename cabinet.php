@@ -2,6 +2,7 @@
 require_once "model/db_connection.php";
 require_once "model/pageFormation.php";
 require_once "model/Authorization.php";
+require_once "model/UserCabinet.php";
 $faq = new pageFormation();
 $authorization = new Authorization();
 
