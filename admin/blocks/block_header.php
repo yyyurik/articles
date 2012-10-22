@@ -1,9 +1,15 @@
 <div class="page_header">
-    <a href="index.php" id="logo_bar"><h1>Quality<small>Best Solutions for Your Business</small></h1></a>
-    <div class="nav">
-        <ul>
-            <li><a href="index.php">Главная</a></li>
-        </ul>
+    <div class="navbar">
+      <div class="navbar-inner">
+          <ul class="nav">
+            <li class="active">
+              <a href="index.php">Управление сайтом</a>
+            </li>
+            <li><a href="article.php">Статьи <span class="badge badge-info">8</span></a></li>
+            <li><a href="#">Пользователи  <span class="badge badge-info">256</span></a></li>
+
+          </ul>
+          <div class="btn" style="float: right;">Выход</div>
+      </div>
     </div>
-    <div class="clearfix"></div>
 </div>
